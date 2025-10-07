@@ -2,7 +2,7 @@
 
 In this exercise you can find the .csv files and the python scripts in order to plug and play the examples
 
-In the **adultScript.py** and **salesScript.py** file change the path to the .csv file
+In the **KNNScript.py** and **ID3script.py** file change the path to the .csv file
 
 ex:
 ```python
@@ -17,6 +17,7 @@ Be sure to have your python packages at least in this versions
 | pandas | 2.3.1 |
 | seaborn | 0.13.2 |
 | matplotlib | 3.10.5 |
+| scikit-learn | 1.7.1 |
 
 If you don´t have installed any of this packages yo can install 
 ```python
